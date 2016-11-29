@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCms", "MvcCms\MvcCms.csproj", "{72586C2D-0513-46B2-B473-3E58EBFF1127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCms.Tests", "MvcCms.Tests\MvcCms.Tests.csproj", "{B4FB8D4D-4717-461C-84F4-E77CD8E2BC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72586C2D-0513-46B2-B473-3E58EBFF1127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72586C2D-0513-46B2-B473-3E58EBFF1127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72586C2D-0513-46B2-B473-3E58EBFF1127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72586C2D-0513-46B2-B473-3E58EBFF1127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FB8D4D-4717-461C-84F4-E77CD8E2BC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FB8D4D-4717-461C-84F4-E77CD8E2BC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FB8D4D-4717-461C-84F4-E77CD8E2BC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FB8D4D-4717-461C-84F4-E77CD8E2BC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
